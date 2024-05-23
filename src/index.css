@@ -11,3 +11,21 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.fondo{
+  background-image: url(../img/vector-fondo-educacion-cientifica-geometrica-remix-digital-azul-degradado_53876-125993\ \(1\).avif);
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100vw;
+  height: 100vh;
+}
+
+#modal{
+  background-color: white;
+  width: 60%;
+  min-height: 60vh;
+  margin: auto;
+  border-radius: 2%;
+  display: block;
+  opacity: 0.7;
+}
